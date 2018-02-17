@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NaQ.iml" filepath="$PROJECT_DIR$/NaQ.iml" />
+      <module fileurl="file://C:\Users\Quentin\Documents\GitHub\newproject1\NaQ\NaQ.iml" filepath="C:\Users\Quentin\Documents\GitHub\newproject1\NaQ\NaQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Quentin\Documents\GitHub\newproject1\NaQ\app\app.iml" filepath="C:\Users\Quentin\Documents\GitHub\newproject1\NaQ\app\app.iml" />
     </modules>
   </component>
 </project>
